@@ -63,7 +63,7 @@ I’m actively improving the site and would love to hear from you.
 ## 📬 Contact
 
 - 🌐 Website: [https://findremotejobs.work](https://findremotejobs.work)  
-- 📧 Email: [your@email.com](mailto:prashantnigam490@gmail.com)
+- 📧 Email: [prashantnigam490@gmail.com](mailto:prashantnigam490@gmail.com)
 
 
 
